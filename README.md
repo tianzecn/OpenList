@@ -19,7 +19,7 @@
 - [Contributing](./CONTRIBUTING.md)
 - [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 - [LICENSE](./LICENSE)
-
+发v1
 ## Disclaimer
 
 OpenList is an open-source project independently maintained by the OpenList Team, following the AGPL-3.0 license and committed to maintaining complete code openness and modification transparency.

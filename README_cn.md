@@ -19,6 +19,7 @@
 - [贡献指南](./CONTRIBUTING.md)
 - [行为准则](./CODE_OF_CONDUCT.md)
 - [许可证](./LICENSE)
+V1
 
 ## 免责声明
 
